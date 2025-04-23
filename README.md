@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 我喜欢编程，学习，创造，分享。我的目标是成为一个优秀的前端开发工程师。我的座右铭是：**文质彬彬，然后而君子**。
 
-📄 ![个人网站](http://img.shields.io/badge/Code%20Time-2%2C057%20hrs%2039%20mins-blue](https://www.konoxin.top/))  📮 cxhaoxs@outlook.com
+📄 [个人网站](https://www.konoxin.top/)  📮 cxhaoxs@outlook.com
     
 👋 感谢你的来访，祝你生活编码两开花。
  <!--START_SECTION:waka-->
