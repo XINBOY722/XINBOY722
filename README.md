@@ -20,7 +20,5 @@ Here are some ideas to get you started:
 - 📫 你可以通过以下方式联系我：
   - 邮箱：cxhaoxs@outlook.com
 
-[- 📊 统计卡片：                                                                                                                        
-
  <!--START_SECTION:waka-->
  <!--END_SECTION:waka-->
