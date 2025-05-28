@@ -87,7 +87,6 @@ Less                     1 repo              █░░░░░░░░░░�
 ```
 
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@konoXIN/f8806eb8-a918-4bb1-ae8b-b23847f3b891.png" /></a>
-
+<figure><embed src="https://wakatime.com/share/@konoXIN/ec317331-f034-4c3f-a113-a5cc1fcb11e7.svg"></embed></figure>
  Last Updated on 27/05/2025 21:44:12 UTC
 <!--END_SECTION:waka-->
