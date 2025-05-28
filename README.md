@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 📄 [个人网站](https://www.konoxin.top/)  📮 cxhaoxs@outlook.com
     
 👋 感谢你的来访，祝你生活编码两开花。
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@konoXIN/c156206c-0a8b-47a5-bcd7-93ade996cf9e.png" /></a>
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C202%20hrs%2039%20mins-blue)
 
