@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     
 👋 感谢你的来访，祝你生活编码两开花。
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@konoXIN/6854e8f6-6e4a-4f0b-a84f-df8cb87f0911.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@konoXIN/7d7b1368-87f9-4766-8aad-0b59725c07da.png" /></a>
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C208%20hrs%2058%20mins-blue)
 
