@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@konoXIN/7d7b1368-87f9-4766-8aad-0b59725c07da.png" /></a>
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C574%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C574%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -56,30 +56,32 @@ Here are some ideas to get you started:
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-本周没有记录到任何活动
+HTML                     17 mins             ██████████████████████░░░   86.45 % 
+Other                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+TOML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
 
 🔥 编辑器: 
-本周没有记录到任何活动
+VS Code                  20 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-本周没有记录到任何活动
+公司官网html测试               20 mins             █████████████████████████   100.00 % 
 
 💻 操作系统: 
-本周没有记录到任何活动
+Windows                  20 mins             █████████████████████████   100.00 % 
 ```
 
 **我最常使用 HTML** 
 
 ```text
-HTML                     10 repos            ███████████░░░░░░░░░░░░░░   45.45 % 
-JavaScript               7 repos             ████████░░░░░░░░░░░░░░░░░   31.82 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Stylus                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Less                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+HTML                     9 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+JavaScript               7 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Stylus                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Less                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
 
 
- Last Updated on 02/04/2026 22:05:23 UTC
+ Last Updated on 03/04/2026 22:01:29 UTC
 <!--END_SECTION:waka-->
