@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@konoXIN/7d7b1368-87f9-4766-8aad-0b59725c07da.png" /></a>
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C577%20hrs%2056%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-326.14%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
@@ -76,14 +74,14 @@ Windows                  2 hrs               ███████████�
 **我最常使用 HTML** 
 
 ```text
-HTML                     9 repos             ███████████░░░░░░░░░░░░░░   45.00 % 
-JavaScript               7 repos             █████████░░░░░░░░░░░░░░░░   35.00 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Stylus                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+HTML                     9 repos             ████████████░░░░░░░░░░░░░   47.37 % 
+JavaScript               7 repos             █████████░░░░░░░░░░░░░░░░   36.84 % 
+Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Stylus                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
 
 
- Last Updated on 16/04/2026 22:11:22 UTC
+ Last Updated on 17/04/2026 22:10:03 UTC
 <!--END_SECTION:waka-->
