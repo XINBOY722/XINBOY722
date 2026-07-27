@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@konoXIN/7d7b1368-87f9-4766-8aad-0b59725c07da.png" /></a>
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C661%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C419%20hrs%2033%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -68,6 +70,12 @@ Here are some ideas to get you started:
 本周没有记录到任何活动
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **我最常使用 HTML** 
 
 ```text
@@ -80,5 +88,5 @@ Stylus                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 22:35:35 UTC
+ Last Updated on 27/07/2026 22:37:55 UTC
 <!--END_SECTION:waka-->
