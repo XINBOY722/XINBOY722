@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@konoXIN/7d7b1368-87f9-4766-8aad-0b59725c07da.png" /></a>
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C420%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C420%20hrs%2039%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2049%20mins-blue?style=flat)
 
@@ -58,18 +58,18 @@ Here are some ideas to get you started:
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-JavaScript               32 mins             █████████████░░░░░░░░░░░░   53.45 % 
-Vue                      25 mins             ███████████░░░░░░░░░░░░░░   42.05 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+JavaScript               37 mins             ██████████████░░░░░░░░░░░   57.24 % 
+Vue                      25 mins             ██████████░░░░░░░░░░░░░░░   38.57 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 
 🔥 编辑器: 
-VS Code                  1 hr                █████████████████████████   100.00 % 
+VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-vue-rabbit               1 hr                █████████████████████████   100.00 % 
+vue-rabbit               1 hr 6 mins         █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  1 hr                █████████████████████████   100.00 % 
+Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -90,5 +90,5 @@ Stylus                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 22:39:56 UTC
+ Last Updated on 05/08/2026 22:38:28 UTC
 <!--END_SECTION:waka-->
