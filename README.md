@@ -58,18 +58,17 @@ Here are some ideas to get you started:
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-JavaScript               37 mins             ██████████████░░░░░░░░░░░   57.24 % 
-Vue                      25 mins             ██████████░░░░░░░░░░░░░░░   38.57 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+JavaScript               5 mins              █████████████████████████   99.19 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-vue-rabbit               1 hr 6 mins         █████████████████████████   100.00 % 
+vue-rabbit               5 mins              █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -90,5 +89,5 @@ Stylus                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 22:10:27 UTC
+ Last Updated on 11/08/2026 22:22:09 UTC
 <!--END_SECTION:waka-->
