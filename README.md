@@ -23,31 +23,31 @@ Here are some ideas to get you started:
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@konoXIN/7d7b1368-87f9-4766-8aad-0b59725c07da.png" /></a>
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C420%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C420%20hrs%2045%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-524.41%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-521.77%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     1907 commits        █████████░░░░░░░░░░░░░░░░   36.74 % 
-🌆 白天                     2192 commits        ███████████░░░░░░░░░░░░░░   42.23 % 
-🌃 傍晚                     1032 commits        █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+🌞 早晨                     1907 commits        █████████░░░░░░░░░░░░░░░░   36.72 % 
+🌆 白天                     2191 commits        ███████████░░░░░░░░░░░░░░   42.19 % 
+🌃 傍晚                     1035 commits        █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
 🌙 晚上                     60 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 📅 **星期二 时的我最有干劲** 
 
 ```text
 星期一                      948 commits         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-星期二                      1084 commits        █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-星期三                      765 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+星期二                      1084 commits        █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+星期三                      768 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
 星期四                      1041 commits        █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-星期五                      924 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-星期六                      182 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+星期五                      923 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+星期六                      182 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 星期日                      247 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
@@ -58,16 +58,17 @@ Here are some ideas to get you started:
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-本周没有记录到任何活动
+JavaScript               5 mins              ███████████████████████░░   92.32 % 
+Vue                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
 
 🔥 编辑器: 
-本周没有记录到任何活动
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-本周没有记录到任何活动
+vue-rabbit               5 mins              █████████████████████████   100.00 % 
 
 💻 操作系统: 
-本周没有记录到任何活动
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -88,5 +89,5 @@ Stylus                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 23:39:10 UTC
+ Last Updated on 09/09/2026 23:29:45 UTC
 <!--END_SECTION:waka-->
