@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@konoXIN/7d7b1368-87f9-4766-8aad-0b59725c07da.png" /></a>
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C420%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C420%20hrs%2058%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2049%20mins-blue?style=flat)
 
@@ -58,16 +58,17 @@ Here are some ideas to get you started:
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-本周没有记录到任何活动
+HTML                     12 mins             ████████████████████████░   97.14 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 🔥 编辑器: 
-本周没有记录到任何活动
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-本周没有记录到任何活动
+Unknown Project          13 mins             █████████████████████████   100.00 % 
 
 💻 操作系统: 
-本周没有记录到任何活动
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -88,5 +89,5 @@ Stylus                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 23:56:29 UTC
+ Last Updated on 29/09/2026 01:14:04 UTC
 <!--END_SECTION:waka-->
