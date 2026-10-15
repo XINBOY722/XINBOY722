@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2049%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-521.77%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
@@ -58,24 +58,22 @@ Here are some ideas to get you started:
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Vue                      2 hrs 54 mins       █████████████████████░░░░   83.78 % 
-JavaScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-CSS                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Vue                      2 hrs 39 mins       ██████████████████████░░░   87.57 % 
+JavaScript               18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 编辑器: 
-VS Code                  3 hrs 28 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-hanisun-ilab-app         2 hrs 55 mins       █████████████████████░░░░   83.84 % 
-hanisun-labsafety-app    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-虚拟平台项目                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-AIR-SHOW-MOBILE          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-SICHUAN UNIVERSITY       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+hanisun-ilab-app         2 hrs 40 mins       ██████████████████████░░░   88.32 % 
+hanisun-labsafety-app    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+hanisun-ilab-app - 找回密码  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 操作系统: 
-Windows                  3 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -96,5 +94,5 @@ Stylus                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 00:03:53 UTC
+ Last Updated on 15/10/2026 23:48:39 UTC
 <!--END_SECTION:waka-->
