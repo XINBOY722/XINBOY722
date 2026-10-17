@@ -58,22 +58,16 @@ Here are some ideas to get you started:
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Vue                      2 hrs 39 mins       ██████████████████████░░░   87.57 % 
-JavaScript               18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+本周没有记录到任何活动
 
 🔥 编辑器: 
-VS Code                  3 hrs 1 min         █████████████████████████   100.00 % 
+本周没有记录到任何活动
 
 🐱‍💻 项目: 
-hanisun-ilab-app         2 hrs 40 mins       ██████████████████████░░░   88.32 % 
-hanisun-labsafety-app    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-hanisun-ilab-app - 找回密码  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+本周没有记录到任何活动
 
 💻 操作系统: 
-Windows                  3 hrs 1 min         █████████████████████████   100.00 % 
+本周没有记录到任何活动
 ```
 
 🤖 **AI Coding This Week** 
@@ -94,5 +88,5 @@ Stylus                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 23:50:53 UTC
+ Last Updated on 17/10/2026 23:22:26 UTC
 <!--END_SECTION:waka-->
